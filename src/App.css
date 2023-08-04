@@ -1,0 +1,15 @@
+
+
+.search-input {
+    position: relative;
+    max-width: 500px;
+  }
+  
+  .search-icon {
+    position: absolute;
+    right: 18px;
+    top: 46%;
+    transform: translateY(-50%);
+    z-index: 1; 
+  }
+  
